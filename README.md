@@ -18,9 +18,7 @@ The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in learning the Convolutional Neural Network architecture. 
-
-
+For this project, I was interestested in enhancing my knowledge in deep learning area, mainly by learning the architecture of the Convolutional Neural Networks. 
 
 ## File Descriptions <a name="files"></a>
 
