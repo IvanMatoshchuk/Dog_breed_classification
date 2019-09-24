@@ -44,7 +44,7 @@ The main findings of the code can be found at the post available [here](https://
 Example:
  
 
-![alt text](https://raw.githubusercontent.com/IvanMatoshchuk/Dog_breed_classification/master/Example.PNG)
+![alt text](https://raw.githubusercontent.com/IvanMatoshchuk/Dog_breed_classification/master/Example.png)
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
