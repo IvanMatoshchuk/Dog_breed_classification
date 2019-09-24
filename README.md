@@ -22,13 +22,31 @@ For this project, I was interestested in enhancing my knowledge in deep learning
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+Udacity provides the following data of dog images:
+``` 
+There are 133 total dog categories.
+There are 8351 total dog images.
+
+There are 6680 training dog images.
+There are 835 validation dog images.
+There are 836 test dog images.
+```
+And for the data of human photos:
+
+`There are 13233 total human images.`
 
 
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@ivan.matoshchuk/how-do-you-save-money-on-airbnb-booking-aa660e690a90).
 
+Example:
+ 
+
+![alt text](https://raw.githubusercontent.com/IvanMatoshchuk/Dog_breed_classification/master/Example.PNG)
+
+
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to AirBNB for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Udacity for the data. Feel free to use the code here as you would like! 
