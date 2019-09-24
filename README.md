@@ -39,7 +39,7 @@ And for the data of human photos:
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@ivan.matoshchuk/how-do-you-save-money-on-airbnb-booking-aa660e690a90).
+The main findings of the code can be found at the post available [here](https://medium.com/@ivan.matoshchuk/classification-of-dog-breeds-using-cnn-5bf1bc38db2c).
 
 Example:
  
